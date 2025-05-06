@@ -1,5 +1,5 @@
 1. Instalasi Kebutuhan Projek
-   Rust, sebagai bahasa pemrograman (back end)
+   `   Rust, sebagai bahasa pemrograman (back end)
    Qt, sebagai interface (front end)
    Ubuntu Linux, sebagai sistem operasi berbasis Linux
 
