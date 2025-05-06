@@ -1,9 +1,9 @@
 1. Instalasi Kebutuhan Projek
-   `   Rust, sebagai bahasa pemrograman (back end)
+   Rust, sebagai bahasa pemrograman (back end)
    Qt, sebagai interface (front end)
    Ubuntu Linux, sebagai sistem operasi berbasis Linux
 
-2. a) Program Sine dan Cosine dengan Metode Taylor Series dan Lookup Table
+3. a) Program Sine dan Cosine dengan Metode Taylor Series dan Lookup Table
        Taylor Series: Menghitung nilai mendekati fungsi trigonometrik dengan beberapa suku (jumlah iterasi tertentu).
        Lookup Table: Mengambil nilai dari tabel yang sudah berisi data sin dan cos tanpa perhitungan ulang.
    b) Program Machine Learning dengan algoritma SVM dan kNN
@@ -13,7 +13,7 @@
        Melihat hasil akurasi dan visualisasinya dalam grafik.
        Menampilkan prediksi dalam bentuk antarmuka grafis.
 
-3. Program Rust Neural Network (NN) Algorithm
+4. Program Rust Neural Network (NN) Algorithm
    Menyiapkan dataset dalam format CSV sesuai dengan tema.
    Merancang arsitektur NN meliputi lapisan input, hidden layer, dan output.
    Memproses data dengan melakukan normalisasi dan membaginya menjadi data training dan data testing.
@@ -21,7 +21,7 @@
    Melakukan testing model dengan data testing untuk mengevaluasi performanya.
    Menampilkan hasil prediksi dan akurasi model sebagai output dari program.
 
-4. Integrasi NN dengan Menggunakan rust Sebagai Back End dan PyQT Sebagai Front End
+5. Integrasi NN dengan Menggunakan rust Sebagai Back End dan PyQT Sebagai Front End
    Membuat folder untuk proyek dan menjalankan perintah cargo init untuk membentuk struktur dasar proyek back end.
    membuat fungsi sebagai pengelola logika.
    Menulis fungsi untuk training model menggunakan dataset.
