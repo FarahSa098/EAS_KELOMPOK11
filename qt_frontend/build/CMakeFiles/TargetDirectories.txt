@@ -1,0 +1,4 @@
+/home/wahyueka/turbomachinery_calc/qt_frontend/build/CMakeFiles/QtRustIntegration.dir
+/home/wahyueka/turbomachinery_calc/qt_frontend/build/CMakeFiles/edit_cache.dir
+/home/wahyueka/turbomachinery_calc/qt_frontend/build/CMakeFiles/rebuild_cache.dir
+/home/wahyueka/turbomachinery_calc/qt_frontend/build/CMakeFiles/QtRustIntegration_autogen.dir
