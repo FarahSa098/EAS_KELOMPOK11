@@ -1,4 +1,15 @@
-# Ikhtisar Proyek
+## Anggota Kelompok:
+1. Hardito Yussyachtio Rahmad ( 2042221092 )
+2. Farah Sabrina Amalina ( 2042221098 )
+3. Adrian Yared Immanuel ( 2042221080 )
+
+## Supervisor:
+Ahmad Radhy, S.Si., M.Si
+
+### Departemen Teknik Instrumentasi - Institut Teknologi Sepuluh Nopember
+---
+
+# Deskripsi Project
 
 Proyek ini mengembangkan aplikasi pembelajaran mesin dan jaringan saraf tiruan (neural network/NN) dengan perhitungan fungsi trigonometri, menggunakan Rust sebagai backend dan PyQt sebagai frontend. Proyek ini mencakup program untuk menghitung sinus dan kosinus, pembelajaran mesin dengan algoritma SVM dan kNN, serta jaringan saraf untuk pemodelan prediktif, yang diintegrasikan dengan antarmuka grafis.
 
@@ -57,7 +68,7 @@ Proyek ini mengembangkan aplikasi pembelajaran mesin dan jaringan saraf tiruan (
   - Teknik lookup table lebih unggul dibandingkan Taylor series untuk sudut tertentu karena efisiensinya.
 - **Analisis Kualitas Air**:
   - Model SVM dan kNN mencapai akurasi klasifikasi di atas 99%, tetapi distribusi data tidak merata (kategori aman vs. tidak aman) karena ketidakseimbangan dataset.
-- **Jaringan Saraf**:
+- **Neural Network**:
   - Proses pelatihan berjalan optimal dalam 1000 epoch dengan konvergensi stabil, meskipun peningkatan lebih lanjut memberikan dampak kecil.
   - Mencapai akurasi 98% pada dataset pengujian kualitas air menggunakan antarmuka Qt.
 - **Kesimpulan**:
